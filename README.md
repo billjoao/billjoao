@@ -1,10 +1,12 @@
-### Ola, me chamo Joao Eduardo Rocha Alves
+### Olá, me chamo Joao Eduardo Rocha Alves
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joaoeduardo18)
 
 
+### Tecnologias e Linguagens que estou aprendendo
 
-### Coisas que estou aprendendo
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billjoao&layout=compact)
 
 <div style="display: inline_block"><br>
 <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
