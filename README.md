@@ -4,10 +4,9 @@
 
 Portfolio Web: https://billjoao.github.io/Portfolio/
 
-### Tecnologias e Linguagens que estou aprendendo
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billjoao&layout=compact)
+
+### Tecnologias e Linguagens que Utilizo:
 
 <div style="display: inline_block"><br>
 <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -16,5 +15,5 @@ Portfolio Web: https://billjoao.github.io/Portfolio/
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img aling="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  
-<div>
+  <div>
+    
