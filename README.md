@@ -1,6 +1,6 @@
 ### Olá, me chamo Joao Eduardo Rocha Alves
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joaoeduardo18)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/joaoeduardo18](https://www.linkedin.com/in/joaoeduardo18/))
 
 ### Portfolio Web (desktkop only): https://billjoao.github.io/Portfolio/
 ### React learning: [https://github.com/billjoao/React-learning/tree/main](https://github.com/billjoao/costs/tree/main)
