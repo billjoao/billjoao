@@ -2,11 +2,11 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoeduardo18/)
 
-<p align="center">
+
   <a href="https://portfolio-joao-jet.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀 Clique%20aqui%20e%20veja%20meu%20PORTFÓLIO-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio Web João Eduardo" />
   </a>
-</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billjoao&layout=compact)
 
