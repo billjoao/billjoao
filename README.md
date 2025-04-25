@@ -2,7 +2,8 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/joaoeduardo18](https://www.linkedin.com/in/joaoeduardo18/))
 
-### Portfolio Web (desktkop only): https://billjoao.github.io/Portfolio/
+### Portfolio Web - portfolio-joao-jet.vercel.app
+
 ### React learning: [https://github.com/billjoao/React-learning/tree/main](https://github.com/billjoao/costs/tree/main)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billjoao&layout=compact)
